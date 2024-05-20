@@ -4,6 +4,8 @@ Welcome to my project repository! This project showcases the various programming
 
 This repository contains an application that allows users to laugh it means when user click the button the site shows a joke which make user laugh.
 
+[click here to hope on site!](https://qwertuhh-jokeeveryday.netlify.app)
+
 ## What I had learnt
 
 - button handling
