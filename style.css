@@ -1,12 +1,11 @@
 *{
     margin: 0px;
     padding: 0px;
-    background-image:
-     url("https://c4.wallpaperflare.com/wallpaper/46/15/632/smilies-smiles-colorful-emotion-wallpaper-preview.jpg");
+    background-image:url("./image/joke.jpg");
     background-repeat: no-repeat;
-    background-size: cover; 
+    background-size: cover;
 }
-  
+
   body{
   font-size: 20px;
   }
